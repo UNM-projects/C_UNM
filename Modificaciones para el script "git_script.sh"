@@ -1,7 +1,0 @@
-El script fue pensado para trabajar con repositorios ya creados en GitHub.
-
-Si por alguna razón alguien quisiera usar el script "git_script.sh" para 
-un repositorio vacío (nuevo) deberá eliminar las líneas 58 y 62 y reemplazar
-la variable 'url' por la url real (https://www.github.repo). De todas formas,
-se recomienda fuertemente hacer la primer carga en el repositorio remoto nuevo
-de forma manual con los comandos comúnes de Git.
